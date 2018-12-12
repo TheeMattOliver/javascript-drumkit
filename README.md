@@ -1,6 +1,6 @@
 # javascript-drumkit
 
-## The samples are from a vintage Ace-Tone Rhythm King.
+## The samples are from a vintage analog Ace-Tone Rhythm King.
 
 ### The script uses html5's native audio play method, and we bind each sample to a keyboard key's with its unicode value. 
 
@@ -8,3 +8,6 @@
 
 ### Probably doesn't work on a phone.
 
+### Try it with sound [here](https://theemattoliver.github.io/javascript-drumkit).
+
+![](drum-demo.gif)
